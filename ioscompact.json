@@ -1,2 +1,14 @@
-{ "$schema": "https://example.com/font-schema.json", "fonts": [ { "name": "SF Compact Bold", "postscriptName": "SFCompactText-Bold", "url": "https://github.com/thelioncape/San-Francisco-family/raw/master/SF%20Compact/SF-Compact-Bold.otf" }, { "name": "SF Compact Heavy", "postscriptName": "SFCompactText-Heavy", "url": "https://github.com/thelioncape/San-Francisco-family/raw/master/SF%20Compact/SF-Compact-Heavy.otf" } ] }
-
+{
+  "fonts": [
+    {
+      "name": "SFCompact-Bold",
+      "postscriptName": "SFCompact-Bold",
+      "url": "https://github.com/thelioncape/San-Francisco-family/raw/master/SF%20Compact/SF-Compact-Bold.otf"
+    },
+    {
+      "name": "SFCompact-Heavy",
+      "postscriptName": "SFCompact-Heavy",
+      "url": "https://github.com/thelioncape/San-Francisco-family/raw/master/SF%20Compact/SF-Compact-Heavy.otf"
+    }
+  ]
+}
