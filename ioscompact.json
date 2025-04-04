@@ -1,14 +1,9 @@
 {
-  "fonts": [
-    {
-      "name": "SFCompact-Bold",
-      "postscriptName": "SFCompact-Bold",
-      "url": "https://github.com/thelioncape/San-Francisco-family/raw/master/SF%20Compact/SF-Compact-Bold.otf"
-    },
-    {
-      "name": "SFCompact-Heavy",
-      "postscriptName": "SFCompact-Heavy",
-      "url": "https://github.com/thelioncape/San-Francisco-family/raw/master/SF%20Compact/SF-Compact-Heavy.otf"
+    "spec": 1,
+    "name": "San Francisco Compact",
+    "previewText": "San Francisco Compact is the system font used across Apple’s iOS, macOS, and iPadOS for its clarity and readability.",
+    "main": {
+        "SFCompactText-Bold": "https://github.com/thelioncape/San-Francisco-family/raw/master/SF%20Compact/SF-Compact-Bold.otf?raw=1",
+        "SFCompactText-Heavy": "https://github.com/thelioncape/San-Francisco-family/raw/master/SF%20Compact/SF-Compact-Heavy.otf?raw=1"
     }
-  ]
 }
