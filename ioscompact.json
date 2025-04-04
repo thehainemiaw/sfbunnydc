@@ -1,20 +1,12 @@
 {
   "fonts": [
     {
-      "name": "SF Compact Bold",
-      "weight": "bold",
-      "style": "normal",
+      "postscriptName": "SFCompactText-Bold",
       "url": "https://github.com/thelioncape/San-Francisco-family/raw/master/SF%20Compact/SF-Compact-Bold.otf"
     },
     {
-      "name": "SF Compact Heavy",
-      "weight": "900",
-      "style": "normal",
+      "postscriptName": "SFCompactText-Heavy",
       "url": "https://github.com/thelioncape/San-Francisco-family/raw/master/SF%20Compact/SF-Compact-Heavy.otf"
     }
-  ],
-  "default": {
-    "family": "San Francisco Compact",
-    "weight": "bold"
-  }
+  ]
 }
